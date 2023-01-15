@@ -1,1 +1,1 @@
-# jenkis-pipeline-file
+# jenkins-pipeline-file
